@@ -153,5 +153,9 @@ In this simple example BFG have the disc and score in 5 quick passes. Time betwe
 
 ## Games with just points, turns, and halves.
 
+|Game | Video| Data|
+|---|---|---|
+|Atletico-vs-MUD|[Youtube](https://youtu.be/HBaG-Wt3NeA)|[Atletico-vs-MUD.json](.\GamesWithoutPasses\Atletico-vs-MUD.json)|
+
 ## Games with points, turns, halves, and passes.
 
