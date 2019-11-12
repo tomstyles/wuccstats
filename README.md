@@ -8,7 +8,7 @@ If you are a budding statistian looking for some game data to use in a project t
 ## Explaination of the data structure (no pass games)
 Each game is an array of scoredPoint objects. The example below shows a point between Grut and Wildcard from the opening game of WUCC. The score is 2-2. There were 2 turnovers in the point, 1 each. Wildcard were on D, Grut were on O. This point is from a game where passes were not being recorded. 
 
-See the point from the game here https://youtu.be/OdO1xL78vKU?t=1034
+See the point from the game here https://youtu.be/OdO1xL78vKU?t=845
 
 ```
 {
